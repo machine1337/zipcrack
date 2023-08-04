@@ -26,8 +26,7 @@ https://www.youtube.com/watch?v=miEcCCVI4eM
         
      2) More Features Will Be Added IA:)
         
- 
-# Author:
-    Coded By: Machine404
+# Contact:
+    Telegram:- https://t.me/machine1337
 
          
