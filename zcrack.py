@@ -3,7 +3,7 @@ import platform
 import time
 print("[*] Checking Requirements Module....")
 def header():
-    ascii_banner = pyfiglet.figleet_format("{ZIP CRACKER}").upper()
+    ascii_banner = pyfiglet.figlet_format("{ZIP CRACKER}").upper()
     print(colored(ascii_banner.rstrip("\n"), 'cyan', attrs=['bold']))
     print(colored("                                <Coded By: Clay>     \n", 'yellow', attrs=['bold']))
     print(colored("                                <Version: 2.0>     \n", 'magenta', attrs=['bold']))
